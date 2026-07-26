@@ -1,4 +1,4 @@
-# 🛰️ WebRecon Mapper (GUI)
+# 🛰️ WebRecon Mapper (GUI) (Under Development)
   Visual attack surface mapping and automated web reconnaissance app for security teams, red teamers, and bug hunters.
 
 ## 📌 Overview
