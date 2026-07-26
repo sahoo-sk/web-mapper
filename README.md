@@ -56,5 +56,5 @@ npm start    # or: python main.py
 * **Start Mapping:** Hit Start Crawl. Watch the visual graph build automatically as endpoints are discovered.
 * **Inspect & Export:** Click on nodes to investigate inputs, filter for interesting status codes, and export your map as an HTML report or SVG graph.
 
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 * **IMPORTANT:** _WebRecon Mapper is intended strictly for authorized security assessments, bug bounty programs with explicit scope, and educational research. Unlawful targeting of unauthorized web applications is illegal. The developers assume no liability for misuse._
