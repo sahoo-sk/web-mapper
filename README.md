@@ -57,4 +57,4 @@ npm start    # or: python main.py
 * **Inspect & Export:** Click on nodes to investigate inputs, filter for interesting status codes, and export your map as an HTML report or SVG graph.
 
 ⚠️ Legal Disclaimer
-**IMPORTANT:** _WebRecon Mapper is intended strictly for authorized security assessments, bug bounty programs with explicit scope, and educational research. Unlawful targeting of unauthorized web applications is illegal. The developers assume no liability for misuse._
+* **IMPORTANT:** _WebRecon Mapper is intended strictly for authorized security assessments, bug bounty programs with explicit scope, and educational research. Unlawful targeting of unauthorized web applications is illegal. The developers assume no liability for misuse._
